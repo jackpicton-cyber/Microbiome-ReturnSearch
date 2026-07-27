@@ -4,7 +4,7 @@ This repository contains the full search results, screening records, and support
 
 Overview
 
-This review examined the current peer-reviewed literature on bidirectional microbial exchange between humans and the built environment. Databases were searched on 23 October 2025, using controlled vocabulary and keyword terms across PubMed and Embase. This repository preserves the complete search output — including studies excluded during screening — to support transparency and reproducibility of the review process.
+This review examined the current peer-reviewed literature on bidirectional microbial exchange between humans and the built environment. Databases were searched on 23 October 2025, using controlled vocabulary and keyword terms across PubMed and Embase. This repository preserves the complete search output, including studies excluded during screening, to support transparency and reproducibility of the review process.
 
 Search Strategy Summary
 Step	Count
